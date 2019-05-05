@@ -1,10 +1,12 @@
 # synesthesia-simulator
 This is an attempt to simulate pitch to color synesthesia.
 
+
 Contributors:
 - Vulpe Cristina;
 - Vodita Stefan;
 - The good people on the LabVIEW forums, by providing vis for sound frequency processing and wavelength to RGB conversion.
+
 
 State of the project:
 
